@@ -1,0 +1,25 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@inquirer/confirm": "^2.0.14",
+    "inquirer": "^9.2.11",
+    "ts-node": "^10.9.1"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.4"
+  },
+  "name": "calculator-cli-nabeel",
+  "version": "1.0.4",
+  "main": "./src/app.js",
+  "scripts": {
+    "start": "node ./src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "calculator-cli-nabeel": "./src/bin/app.js"
+  },
+  "keywords": [],
+  "author": "Nabeel Yousaf",
+  "license": "ISC",
+  "description": "CLI Calculator with Node .Js Project using typescript language."
+}
