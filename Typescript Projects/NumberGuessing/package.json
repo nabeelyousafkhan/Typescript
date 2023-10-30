@@ -1,11 +1,11 @@
 {
   "name": "number-guessing-nabeel",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "type": "module",
   "bin": {
-    "number-guessing-nabeel": "bin/index.js"
+    "number-guessing-nabeel": "index.js"
   },
   "scripts": {
     "start": "node index.js",
