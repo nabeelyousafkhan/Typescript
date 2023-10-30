@@ -16,7 +16,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "calculator-cli-nabeel": "./src/bin/app.js"
+    "calculator-cli-nabeel": "src/app.js"
   },
   "keywords": [],
   "author": "Nabeel Yousaf",
