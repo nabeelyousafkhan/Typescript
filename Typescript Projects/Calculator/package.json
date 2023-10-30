@@ -9,7 +9,7 @@
     "@types/inquirer": "^9.0.4"
   },
   "name": "calculator-cli-nabeel",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "./src/app.js",
   "scripts": {
     "start": "node ./src/app.js",
